@@ -1,4 +1,4 @@
-![GIF of a red forest with leaves falling](./redbanner.png)
+
 # Hi there 👋, I'm wackycantcode!
 
 ## 🙋‍♂️ About Me
