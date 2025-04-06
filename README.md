@@ -1,9 +1,13 @@
-![GIF of a red forest with leaves falling](./redbannerv2.png)
+![red clouds](./redbannerv2.png)
 
-# hi there 👋, i’m wackycantcode!
+# hi there 👋, i’m wacky!
 
 ## 🙋‍♂️ about me
-i’m a passionate and curious developer always looking to learn new things and improve my skills. my main interests lie in web development, ai, and new upcoming technologies.
+i’m a passionate and curious developer always looking to learn new things and improve my skills. 
+
+my main interests lie in web development, ai, and new upcoming technologies. i've been programming since 2018.
+
+on the personal side of things, i'm a big fan of hatsune miku, kasane teto, and everything computers.
 
 ## 🔧 technologies & tools
 - **languages:** javascript, python, java, c++
