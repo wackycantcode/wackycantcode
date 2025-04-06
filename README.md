@@ -21,4 +21,3 @@ i’m a passionate and curious developer always looking to learn new things and 
 ## 🌱 learning
 - c++ development
 - sql development
-- kubernetes
