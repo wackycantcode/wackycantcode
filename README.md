@@ -1,4 +1,4 @@
-![GIF of a red forest with leaves falling](https://i.pinimg.com/originals/25/c8/a2/25c8a28c63badbe0acdbb22312976801.gif)
+![GIF of a red forest with leaves falling](./redbanner.png)
 # Hi there 👋, I'm wackycantcode!
 
 ## 🙋‍♂️ About Me
