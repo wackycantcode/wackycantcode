@@ -1,24 +1,24 @@
+![GIF of a red forest with leaves falling](./redbannerv2.png)
+# hi there 👋, i’m wackycantcode!
 
-# Hi there 👋, I'm wackycantcode!
+## 🙋‍♂️ about me
+i’m a passionate and curious developer always looking to learn new things and improve my skills. my main interests lie in web development, ai, and new upcoming technologies.
 
-## 🙋‍♂️ About Me
-I'm a passionate and curious developer always looking to learn new things and improve my skills. My main interests lie in web development, AI, and new upcoming technologies.
+## 🔧 technologies & tools
+- **languages:** javascript, python, java, c++
+- **frameworks & libraries:** react, node.js, express
+- **databases:** mysql
+- **tools & platforms:** git, docker, aws, google cloud, azure, github actions
 
-## 🔧 Technologies & Tools
-- **Languages:** JavaScript, Python, Java, C++
-- **Frameworks & Libraries:** React, Node.js, Express
-- **Databases:** MySQL
-- **Tools & Platforms:** Git, Docker, AWS, Google Cloud, Azure, GitHub Actions
+## 📈 github stats
+![wackycantcode’s github stats](https://github-readme-stats.vercel.app/api?username=wackycantcode&show_icons=true&theme=dracula)
 
-## 📈 GitHub Stats
-![wackycantcode's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wackycantcode&show_icons=true&theme=dracula)
+## 🔭 currently working on
+- building innovative ai applications
+- learning more about cloud computing and artificial intelligence
+- learning what goes into making a production app
 
-## 🔭 Currently Working On
-- Building innovative AI applications
-- Learning more about cloud computing and artificial intelligence
-- Learning what goes into making a production app
-
-## 🌱 Learning
-- C++ Development
-- SQL Development
-- Kubernetes
+## 🌱 learning
+- c++ development
+- sql development
+- kubernetes
