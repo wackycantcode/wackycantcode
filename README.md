@@ -1,3 +1,4 @@
+![GIF of a red forest with leaves falling](https://i.pinimg.com/originals/25/c8/a2/25c8a28c63badbe0acdbb22312976801.gif)
 # Hi there 👋, I'm wackycantcode!
 
 ## 🙋‍♂️ About Me
@@ -10,7 +11,7 @@ I'm a passionate and curious developer always looking to learn new things and im
 - **Tools & Platforms:** Git, Docker, AWS, Google Cloud, Azure, GitHub Actions
 
 ## 📈 GitHub Stats
-![wackycantcode's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wackycantcode&show_icons=true&theme=blue_navy)
+![wackycantcode's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wackycantcode&show_icons=true&theme=dracula)
 
 ## 🔭 Currently Working On
 - Building innovative AI applications
