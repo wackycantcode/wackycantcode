@@ -1,4 +1,6 @@
 ![GIF of a red forest with leaves falling](./redbannerv2.png)
+
+*the mouse is my paintbrush, and the computer is my canvas*
 # hi there 👋, i’m wackycantcode!
 
 ## 🙋‍♂️ about me
