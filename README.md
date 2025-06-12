@@ -21,8 +21,8 @@ on the personal side of things, i'm a big fan of hatsune miku, kasane teto, and 
 ## 🔭 currently working on
 - building innovative ai applications
 - learning more about cloud computing and artificial intelligence
-- learning what goes into making a production app
+- deploying production-ready apps
 
 ## 🌱 learning
-- c++ development
 - sql development
+- efficiently utilizing cloud services such as aws
