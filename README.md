@@ -7,7 +7,7 @@ i’m a passionate and curious developer always looking to learn new things and 
 
 my main interests lie in web development, ai, and new upcoming technologies. i've been programming since 2018.
 
-on the personal side of things, i'm a big fan of hatsune miku, kasane teto, and everything computers.
+on the personal side of things, i'm a big fan of hatsune miku, kasane teto, persona 3 reload, sonic the hedgehog, and everything computers.
 
 ## 🔧 technologies & tools
 - **languages:** javascript, python, java, c++
