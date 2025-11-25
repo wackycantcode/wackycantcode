@@ -1,6 +1,6 @@
 ![Cluttered windows task manager windows](./07e55addda899d689b4306025dc062b7.jpg)
 
-# Hi there 👋, i’m Wacky!
+# Hi there 👋, I’m Wacky!
 
 ## 🙋‍♂️ about me
 I’m a passionate and curious developer always looking to learn new things and improve my skills. 
