@@ -2,7 +2,7 @@
 
 # Hi there 👋, I’m Wacky!
 
-## 🙋‍♂️ about me
+## 🙋‍♂️ About me
 I’m a passionate and curious developer always looking to learn new things and improve my skills. 
 
 My main interests lie in developing innovative apps and harnessing AI. I've been programming since 2019.
@@ -24,7 +24,7 @@ On the personal side of things, I'm a big fan of Sonic the Hedgehog, Hatsune Mik
 - Learning how to use algorithms
 - Growing my audience on social media
 
-## 🌱 learning
+## 🌱 Learning
 - SQL development
 - Efficiently utilizing cloud services such as aws
 - Java
