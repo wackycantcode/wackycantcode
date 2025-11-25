@@ -1,4 +1,4 @@
-![red clouds](./redbannerv2.png)
+![red clouds](./07e55addda899d689b4306025dc062b7.jpg)
 
 # hi there 👋, i’m wacky!
 
